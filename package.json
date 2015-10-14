@@ -9,6 +9,6 @@
   "author": "gyson <eilian.yunsong@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "koa": "1"
+    "koa": "koajs/koa#v1.x"
   }
 }
