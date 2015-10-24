@@ -5,7 +5,7 @@ Koa v1.x
 
 ### Usage
 
-within `package.json`:
+within `package.json`
 
 ```
 {
@@ -14,6 +14,16 @@ within `package.json`:
   }
 }
 ```
+
+then you can do
+
+```js
+const koaV1 = require('koa-v1')
+```
+
+### Case
+
+[koa-benchmarks](https://github.com/gyson/koa-benchmarks)
 
 ### Related Issues
 
