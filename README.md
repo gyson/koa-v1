@@ -3,27 +3,17 @@
 
 Koa v1.x
 
+### Installation
+
+```
+$ npm install koa-v1
+```
+
 ### Usage
-
-within `package.json`
-
-```
-{
-  "dependencies": {
-    "koa-v1": "gyson/koa-v1"
-  }
-}
-```
-
-then you can do
 
 ```js
 const koaV1 = require('koa-v1')
 ```
-
-### Case
-
-[koa-benchmarks](https://github.com/gyson/koa-benchmarks)
 
 ### Related Issues
 
